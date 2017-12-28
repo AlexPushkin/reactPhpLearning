@@ -1,17 +1,19 @@
 {
-    "name": "pushka/reactlearning",
-    "description": "Just learning reactPhp",
-    "type": "project",
-    "require": {
-        "react/event-loop": "^0.4.3",
-        "react/promise": "^2.5",
-        "react/socket": "^0.8.7"
-    },
-    "authors": [
-        {
-            "name": "Alex Pushka",
-            "email": "mallaka13@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable"
+  "name": "pushka/reactlearning",
+  "description": "Just learning reactPhp",
+  "type": "project",
+  "require": {
+    "roave/security-advisories": "dev-master",
+    "php": ">=7.1",
+    "react/event-loop": "^0.4.3",
+    "react/promise": "^2.5",
+    "react/socket": "^0.8.7"
+  },
+  "authors": [
+    {
+      "name": "Alex Pushka",
+      "email": "mallaka13@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
 }
